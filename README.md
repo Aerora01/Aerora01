@@ -19,7 +19,9 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white)
 
-## Social - WIP
+## Contact & Social 📱 - WIP
+[![Telegram](https://img.shields.io/badge/Telegram-@Aerora-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Aerora)  
+![Discord](https://img.shields.io/badge/Discord-Aerora%230001-7289DA?style=flat-square&logo=discord&logoColor=white)
 
 #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aerora01&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
